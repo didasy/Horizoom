@@ -1,0 +1,15 @@
+.horizoomImg {
+  background: url('http://example.com/image.jpg') no-repeat;
+  min-width: 300px;
+  min-height: 600px;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  cursor: pointer;
+}
+
+.imgWrapper	{
+  max-width: 800px;
+  max-height: 800px;
+  overflow: hidden;
+}
